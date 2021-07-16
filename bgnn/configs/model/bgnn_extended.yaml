@@ -1,0 +1,28 @@
+hp:
+  iter_per_epoch:
+  - 20
+  lr:
+  - 0.1
+  hidden_dim:
+  - 64
+  name:
+  - gat
+  only_gbdt:
+  - true
+  dropout:
+  - 0.
+  depth:
+  - 6
+  stochastic: 
+  - False
+  sample_nn_size:
+  - 10
+  inductive:
+  - False
+  batch_size:
+  - 1024
+  pre_learning:
+  - True
+num_epochs: 200
+patience: 10
+

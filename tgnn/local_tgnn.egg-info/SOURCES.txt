@@ -1,0 +1,6 @@
+setup.cfg
+setup.py
+local_tgnn.egg-info/PKG-INFO
+local_tgnn.egg-info/SOURCES.txt
+local_tgnn.egg-info/dependency_links.txt
+local_tgnn.egg-info/top_level.txt

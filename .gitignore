@@ -1,0 +1,13 @@
+!*.sh
+!*.py
+!*.ini
+
+*.tar
+bgnn/datasets
+tgnn/tgnn/datasets
+tgnn/tgnn/scripts/model_folder/*
+tgnn/tgnn/scripts/experimental_sripts/*/
+*.pkl
+*.jpg
+*.zip
+*.pyc
